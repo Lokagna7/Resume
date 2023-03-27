@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+       CV Code
+  </title>
+    <b>
+     <h1>
+      <i>
+       <u> Make CV on html</u>
+      </i>
+     </h1>
+    </b>
+</head>
+<body>
+	<table>
+     <tr>
+       <td>
+        <center>
+         <h1>
+         <font face="valign"> CURRICULAM-VITAE</font>
+         </h1>
+        </center>
+       </td>
+     </tr>
+     <tr>
+        <td>
+            <img>
+            
+        </td>
+     </tr>
+
+     <tr>
+        <td>
+         <b>KETHIREDDY LOKAGNA</b><br><br>
+          CONTACT ADDRESS<br>
+          Banjara hills road,<br>
+          POST- Jawaharlal Nehru Technological University<br>
+          POLICE STATION- K.P.H.B<br>
+          STATE- Telangana State<br>
+          PIN CODE- 5000851<br>
+          MOBILE NO-9704277381<br> 
+        </td>
+      </tr> 
+      <tr>
+        <td>
+            <br><br><i><b><h3>CAREER OBJECTIVE</h3></b></i>
+        </td>
+      </tr>
+      <tr>
+        <td>
+           <font size="4"> "The simpler you say it,the more eloquent it is."</font>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <br><br><i><b><h3>ACADEMIC QUALIFICATION</h3></b></i> 
+        </td>
+      </tr>
+      <tr>
+        <td>
+         <div>
+            <ul>
+                <li><b>GRADUATION</b>-Pursuing B.Tech 1st year from National Institute of Technology DURGAPUR</li>
+                <li><b>Intermediate</b>-Intermediate passed in 2022 from Sri Chaitanya Junior College</li>
+                <li><b>High School</b>-High School passed in 2020 from Sri Chaitanya School</li>
+                <li><b>Computer Course</b>-Basics of C,C++,html</li>
+                <li><b>Typing</b>-English only.</li>
+            </ul>
+         </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <br><br><i><b><h3>STRENGTHS</h3></b></i>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <div>
+                <ul>
+                    <li>Hard Working & Confident.</li>
+                    <li>Resposible.</li>
+                    <li>Self Motivation & Smart Working.</li>
+                </ul>
+            </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <br><br><i><b><h3> DETAILS</h3></b></i>
+        </td>
+      </tr>
+      <tr>
+        <td><br>
+        <ul>Name                   :  Kethireddy Lokagna<br>
+            Father Name            :   Kethireddy Venkata Ramana<br>
+            Date of Birth          :   29/07/2005<br>
+            E-mail                 :   lokagna7@gmail.com<br> 
+            Gender                 :   Female<br>
+            Marital Status         :   Unmarried<br>
+            Nationality            :   Indian<br>
+            Language Known         :   Telugu,English,Hindi<br></ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <br><br><i><b><h3>DECLARATION </h3><br></b></i>
+        </td>
+      </tr>
+      <tr>
+        <td>
+             I here by declare that the above information given by me is true to the best of my knowledge and belief. I work in your esteemed co-operation with my full devotion.
+        </td>
+      </tr>
+      <tr>
+        <td><br><br>
+            <b>DATE</b>     : __/__/____</td>                                                                  <td><b><strong>(KETHIREDDY LOKAGNA)</strong></b>
+        </td>
+      </tr>
+   </table>
+</body>
+</html>
